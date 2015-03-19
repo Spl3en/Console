@@ -6,6 +6,7 @@
 #define __DEBUG_OBJECT__ "Console"
 #include "dbg/dbg.h"
 
+
 void
 console_set_size (int w, int h)
 {
